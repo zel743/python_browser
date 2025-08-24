@@ -1,7 +1,7 @@
 import sys
 from PyQt5.QtCore import *
 from PyQt5.QtCore import QUrl
-#aqui se importa las librerias a usar
+#aqui se importa las librerias a usar niuev
 from PyQt5.QtWidgets import *
 #esta libreria importa la ingenieria dle navegador
 from PyQt5.QtWebEngineWidgets import *
